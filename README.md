@@ -3,12 +3,12 @@
 
 
 # 교재
-* Coding the Matrix [Ebook](http://www.yes24.co.kr/24/goods/17967245) [도서](http://www.yes24.co.kr/24/goods/17967245)
+* Coding the Matrix [Ebook](https://www.amazon.com/Coding-Matrix-Algebra-Computer-Applications-ebook/dp/B00VSN9NHY) [도서](http://www.yes24.co.kr/24/goods/17967245)
 * [Course Resources](http://codingthematrix.com/)
 * [Course Lecture video](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/?page=1)
 
 # 선형대수학 참고자료
-* Khan Academy Linear Algebra (한글자막지원) [링크](ttps://www.khanacademy.org/math/linear-algebra)
+* Khan Academy Linear Algebra [링크](ttps://www.khanacademy.org/math/linear-algebra)
 * 3blue1brown [essence of linear algebra]( https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 # 파이썬 참고자료
