@@ -21,3 +21,5 @@
 목차
 -----------------------------
 1. [Chapter1 Function](https://github.com/goodcheer/codingthematrix/blob/master/chap1_function.ipynb)
+    - [Chapter1 lab mini_search_engine](https://github.com/goodcheer/codingthematrix/blob/master/Chap1_lab.ipynb)
+  
